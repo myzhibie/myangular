@@ -5,3 +5,5 @@ have you ever seen the book [build your own angulrjs](http://www.teropa.info/bui
 ## chapters of this tuitorial
 * chapter1 [start up your project](http://www.cnblogs.com/myzhibie/p/5224571.html)  
   * show you how to initialize your project and build the whole env quickly. 
+* chapter2 [scope](http://www.cnblogs.com/myzhibie/p/5229266.html)  
+  * implement your own scope and its [$watch and $digest](http://www.cnblogs.com/myzhibie/p/5229266.html) 
